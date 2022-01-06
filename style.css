@@ -274,7 +274,7 @@ a{
 }
 
 footer{
-   background-color: black;
+   background-image: linear-gradient(Black,Blue);
    margin-top: -21px;
    margin-left: -100px;
    margin-right: -100px;
