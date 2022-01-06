@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Poppins:wght@300&display=swap');
+
+body{
+   margin: 0px 100px;
+   background-color: #E5E5E5;
+   font-family: 'Poppins', sans-serif;
+}
+a{
+   text-decoration: none;
+   color: white;
+}
+.container-01{
+   display: flex;
+   width: 100%;
+   height: 70vh;
+   margin-top: 50px;
+}
+.text{
+   padding-left: 15px;
+   width: 50%;
+   height: 70vh;
+}
+.text p{
+   text-align: justify;
+}
+.button{
+   background-color: #FF5959;
+   padding: 10px 16px;
+   font-size: 25px;
+   border-radius: 10px ;
+}
+.intro-text{
+   font-family: 'Luxurious Roman', cursive;
+   margin-top: 0px;
+   padding: 0px 10px;
+   width: 70%;
+   height: 16vh;
+   font-size: 30px;
+   font-weight: bold;
+   border-left: 3px solid #FF5959;
+}
+.intro-text span{
+   color: orange;
+}
+
+
+.image-01{
+   margin-left: 5%;
+   margin-right: 5%;
+   width: 40%;
+   height: 70vh;
+}
+.image-01 img{
+   width: 400px;
+   height: 70vh;
+}
+.container-02-header{
+   text-align: center;
+   color: navy;
+   font-size: 30px;
+   font-weight: 900;
+}
+.container-02-header span{
+   color: orange;
+}
+.container-02{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   margin-top: 0px;
+   width: 100%;
+   height: 70vh;
+}
+.container-02 h1{
+   text-align: center;
+}
+.Mission{
+   
+   padding-left: 10px;
+   padding-right: 10px;
+   background-color: #e0c7c7;
+   width: 30%;
+   height: 61.5vh;
+   border-radius: 15px;
+
+}
+.Mission .image-02{
+   margin-left: 10px;
+   background-color: #e0c7c7;
+   width: 220px;
+   height: 30vh;
+}
+.Mission .image-02 img{
+   width: 220px;
+   height: 30vh;
+}
+.Mission p{
+   padding-left: 10px;
+}
+.Mission h2{
+   padding-left: 10px;
+}
+
+
+.Vission{
+   padding-left: 15px;
+   padding-right: 15px;
+   background-color: #a19e9e;
+   width: 30%;
+   height: 61.5vh;
+   border-radius: 25px;
+}
+
+.Vission .image-02{
+   margin-left: 10px;
+   background-color: #a19e9e;
+   width: 220px;
+   height: 30vh;
+}
+.Vission .image-02 img{
+   margin-left: 5px;
+   width: 220px;
+   height: 30vh;
+}
+.Vission p{
+   padding-left: 10px;
+}
+.Vission h2{
+   padding-left: 10px;
+}
+
+.Goals{
+   padding-left: 10px;
+   padding-right: 10px;
+   background-color: #887979;
+   width: 30%;
+   height: 61.5vh;
+   border-radius: 15px;
+}
+.Goals .image-02{
+   margin-left: 10px;
+   background-color: #887979;
+   width: 220px;
+   height: 30vh;
+}
+.Goals .image-02 img{
+   width: 220px;
+   height: 30vh;
+}
+.Goals p{
+   padding-left: 10px;
+}
+.Goals h2{
+   padding-left: 10px;
+}
+
+
+.container-03{
+   background-image: url(/shapes/shape-6.png);
+   background-repeat: no-repeat;
+   display: flex;
+   margin-top: 50px;
+   width: 100%;
+   height: 70vh;
+}
+.image-03{  
+   margin-left: 5px;
+   width: 358px;
+   height: 70vh;
+}
+.image-03 img{
+   margin-left: 0px;
+   margin-top: 10px;
+   width: 353px;
+   height: 68vh;
+}
+
+.container-03-text{
+   height: 350px;
+   width: 650px;
+   margin-top: 50px;
+   margin-left: 60px;
+   padding-left: 30px;
+   text-align: justify;
+}
+.container-03-text h1{
+   font-size: 35px;
+}
+
+.image-04{
+   margin-top: 00px;
+   width: 358px;
+   height: 70vh;
+}
+.image-04 img{
+   margin-right: 0px;
+   margin-top: 10px;
+   width: 353px;
+   height: 68.5vh;
+}
+.container-04-text{
+   height: 350px;
+   width: 650px;
+   margin-top: 50px;
+   margin-left: 40px;
+   margin-right: 60px;
+   padding-left: 30px;
+   text-align: justify;
+}
+.container-04-text h1{
+   font-size: 35px;
+}
+.container-04{
+   display: flex;
+   background-image: url(/shapes/shape-1.png);
+   background-repeat: no-repeat;
+   margin-top: 50px;
+   width: 100%;
+   height: 70vh;
+}
+
+
+.coruna-into{
+   text-align: center;
+   color: black;
+   font-size: 40px;
+   font-weight: bolder;
+}
+.coruna-into span{
+   color: orange;
+}
+.container-05{
+   background-image: url(/shapes/shape-3.png);
+   background-repeat: no-repeat;
+   display: flex;
+   align-items: center;
+   
+   width: 100%;
+   height: 90vh;
+   margin-left: -20px;
+}
+.picture{
+
+   
+   margin-left: 100px;
+   width: 30%;
+   height: 75vh;
+
+}
+.picture img{
+   
+   width: 75%;
+   height: 75vh;
+   border-radius: 15px;
+}
+
+
+.container-05-text{
+   padding-left: 10px;
+   padding-right: 5px;
+   text-align: justify;
+   
+   margin-left: 50px;
+   width: 50%;
+   height: 50vh;
+}
+.container-05-text h1{
+   font-size: 35px;
+}
+.container-05-text h1 span{
+   color: orange;
+}
+
+footer{
+   background-color: black;
+   margin-top: -21px;
+   margin-left: -100px;
+   margin-right: -100px;
+   margin-bottom: -18px;
+   text-align: center;
+   color: white;
+
+}
+footer h1 span{
+   color: tomato;
+
+}
