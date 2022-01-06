@@ -158,7 +158,7 @@ a{
 
 
 .container-03{
-   background-image: url(/shapes/shape-6.png);
+   background-image: url(shape-6.png);
    background-repeat: no-repeat;
    display: flex;
    margin-top: 50px;
@@ -214,7 +214,7 @@ a{
 }
 .container-04{
    display: flex;
-   background-image: url(/shapes/shape-1.png);
+   background-image: url(shape-1.png);
    background-repeat: no-repeat;
    margin-top: 50px;
    width: 100%;
@@ -232,7 +232,7 @@ a{
    color: orange;
 }
 .container-05{
-   background-image: url(/shapes/shape-3.png);
+   background-image: url(shape-3.png);
    background-repeat: no-repeat;
    display: flex;
    align-items: center;
