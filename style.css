@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Luxurious+Roman&family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap&effect=fire-animation');
+@import url('https://fonts.googleapis.com/css?family=Luxurious+Roman&family=Poppins:wght@300&display=swap&effect=shadow-multiple');
 
 body{
    margin: 0px 100px;
@@ -57,6 +57,7 @@ a{
    height: 70vh;
 }
 .container-02-header{
+   margin-bottom: -5px;
    text-align: center;
    color: navy;
    font-size: 30px;
