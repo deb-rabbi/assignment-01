@@ -23,6 +23,7 @@ a{
 }
 .text p{
    text-align: justify;
+   margin-top: 30px;
 }
 .button{
    background-color: #FF5959;
