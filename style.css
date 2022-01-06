@@ -261,7 +261,7 @@ a{
    padding-left: 10px;
    padding-right: 5px;
    text-align: justify;
-   
+   background-image: linear-gradient(Bisque,#E5E5E5);
    margin-left: 50px;
    width: 50%;
    height: 50vh;
